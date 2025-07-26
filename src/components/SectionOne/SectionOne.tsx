@@ -42,7 +42,7 @@ const SectionOne: React.FC<SectionOneProps> = ({
 					data-splitting=""
 					className={`${S.text} split-text hidden-init`}
 				>
-					York & Dante <sup className={S.sup}>&reg;</sup>
+					NOVA & LIVAN <sup className={S.sup}>&reg;</sup>
 				</h1>
 				<p ref={subTextRef} className={`${S.subText} hidden-init`}>
 					Natural Beauty, Fashionable Eco-Friendly Design.

@@ -90,7 +90,7 @@ const SectionFive: React.FC<SectionFiveProps> = ({ windowWidth }) => {
 				<div className={S.textWrapper}>
 					<p className={S.text}>
 						Minimalism has arrived in a totally new silhouette. The
-						York & Dante collection is manufactured with the highest
+						NOVA & LIVAN collection is manufactured with the highest
 						quality working to blend the right amount of luxury,
 						exclusivity and simplicity. Our brand dedicates itself
 						to unique pieces that are standard in its product line

@@ -9,7 +9,7 @@ const SectionTwo: React.FC = () => {
 				<div className={S.textWrapper}>
 					<h2 className={S.title}>The story behind the brand</h2>
 					<p className={S.text}>
-						York & Dante is a fashion brand from France with the
+						NOVA & LIVAN is a fashion brand from France with the
 						vision of making the fashion industry more aware of
 						environmental issues and promoting the use of recycled
 						and eco-friendly materials in the fashion world. The

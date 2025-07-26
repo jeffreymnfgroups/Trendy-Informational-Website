@@ -45,7 +45,7 @@ const SectionEight: React.FC<SectionEightProps> = ({ windowWidth }) => {
 						data-scroll-direction="horizontal"
 						data-scroll-speed={textScrollSpeed}
 					>
-						York & Dante
+						NOVA & LIVAN
 					</p>
 				</div>
 			</div>
